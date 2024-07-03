@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#hero {
+    height: 100vh;
+    background: url('../imagenes/Page\ Not\ Found.jpeg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#contact {
+    background-color: #f8f9fa;
+}
+
+#hero h1{
+    color: rgb(255, 133, 33);
+}
